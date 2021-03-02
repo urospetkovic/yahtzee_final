@@ -1,4 +1,4 @@
-Yahtzee game with GUI made in tkinter.
+Example of Desktop Yahtzee game with GUI made in tkinter.
 
 Elements:
 - Yahtzee sheet 
